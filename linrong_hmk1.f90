@@ -1,4 +1,5 @@
 ! JungeLin 20190307
+! add some letters...
 
 program score_statistics
 	implicit none
